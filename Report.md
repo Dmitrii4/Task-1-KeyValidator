@@ -7,12 +7,10 @@
 На тестирование затрачено: 2 часа
 
 В результате тестирования выявлены следующие дефекты:
-1. [Приложение KeyValidator не совместимо с Java 11](https://github.com/Dmitrii4/Task-1-KeyValidator/issues/1)
-2. Обнаружены невалидные ключи для проверки:
-   * 80b427f8-92cd-3aae-ba04-3927fbe17c6 
-   * 387eedc6-12e9-3b32-9881-63b6b5e85317
-3. Обнаружен валидный ключ для проверки:
-   * 2fb98b44-93e7-3bdd-a2ad-79347bfe4ad1
+* [Приложение KeyValidator не совместимо с Java 11](https://github.com/Dmitrii4/Task-1-KeyValidator/issues/1)
+* [FAIL в валидных ключах для проверки](https://github.com/Dmitrii4/Task-1-KeyValidator/issues/2)
+* [FAIL в валидных ключах для проверки #2](https://github.com/Dmitrii4/Task-1-KeyValidator/issues/3)
+* [OK в невалидных ключах для проверки](https://github.com/Dmitrii4/Task-1-KeyValidator/issues/4)
 
 ## Описание процесса тестирования
 
